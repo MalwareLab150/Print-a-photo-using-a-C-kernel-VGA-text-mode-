@@ -9,7 +9,7 @@ Second step
 open your terminal and type "python convert.py".
 
 Third step
-Open the wsl and run these commands.
+open the wsl and run these commands.
 
 sudo apt install gcc     
 sudo apt install nasm     
